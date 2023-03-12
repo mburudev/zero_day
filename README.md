@@ -1,4 +1,4 @@
-This is the optional vagrant repo
+This is the optional vagrant repository
 
 
 
